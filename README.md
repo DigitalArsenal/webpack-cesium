@@ -8,5 +8,8 @@ A single-file [Cesium](https://cesiumjs.org) build to use in static hosting or a
 
 Then require/import it to get the root Cesium object within the current scope:
 
-`var Cesium = require('webpack-cesium');`
-`console.log(Cesium.VERSION); //=> 1.31`
+```javascript
+var Cesium = require('webpack-cesium');
+console.log(Cesium.VERSION); //=> 1.31
+```
+
