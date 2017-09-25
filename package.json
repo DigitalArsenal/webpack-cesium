@@ -1,7 +1,7 @@
 {
   "name": "webpack-cesium",
-  "version": "1.31.2",
-  "cesiumVersion":"1.31",
+  "version": "1.37",
+  "cesiumVersion":"1.37",
   "description": "webpack version of Cesium",
   "main": "webpack.cesium.js",
   "scripts": {
