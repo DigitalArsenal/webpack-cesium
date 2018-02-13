@@ -10,6 +10,6 @@ Then require/import it to get the root Cesium object within the current scope:
 
 ```javascript
 var Cesium = require('webpack-cesium');
-console.log(Cesium.VERSION); //=> 1.31
+console.log(Cesium.VERSION); //=> 1.37
 ```
 
